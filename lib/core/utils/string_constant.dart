@@ -13,4 +13,8 @@ class StringConstant {
       "Huge drivers network helps you find comforable, safe and cheap ride";
   static String introSubTitle3 =
       "Know your driver in advance and be able to view current location in real time on the map";
+
+  static String intro_home_greeting = "Hi, nice to meet you!";
+  static String intro_home_description =
+      "Choose your location to start find restaurants around you.";
 }

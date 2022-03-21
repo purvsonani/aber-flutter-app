@@ -8,10 +8,8 @@ import 'package:get/get.dart';
 
 import '../intro_screen/intro_screen.dart';
 
-
 class SplashScreen extends StatefulWidget {
-
-   SplashScreen({Key? key}) : super(key: key);
+  SplashScreen({Key? key}) : super(key: key);
 
   @override
   State<SplashScreen> createState() => _SplashScreenState();

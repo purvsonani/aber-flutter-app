@@ -1,6 +1,9 @@
 import 'package:flutter/material.dart';
 
 class ColorConstant {
+
+  static Color white = Colors.white;
+
   static Color backgroundColor = fromHex('#4CE5B1');
 
   static Color aberTextColor = fromHex("#FFFFFF");
@@ -12,6 +15,13 @@ class ColorConstant {
 
   static Color indicatorBackGround = fromHex("#EFEFF4");
   static Color indicatorSelected = fromHex("#4CE5B1");
+
+  static Color introHomeDescription = fromHex("#C8C7CC");
+  static Color introHomeBackGround = fromHex("#F2F2F2");
+
+  static Color selectItManually = fromHex("#F52D56");
+
+
 
 
   static Color fromHex(String hexString) {
